@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Trang-1" id="HzBPmiYu78ZUoON5uWPN">
+    <mxGraphModel dx="1877" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DOfnRAnlXNssnrZwcFIz-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul32BjGW4CSy-JWjmA33-1" value="n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul32BjGW4CSy-JWjmA33-2" value="Bắt đầu vòng lặp for" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul32BjGW4CSy-JWjmA33-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Ul32BjGW4CSy-JWjmA33-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="80" as="sourcePoint" />
+            <mxPoint x="-400" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul32BjGW4CSy-JWjmA33-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Ul32BjGW4CSy-JWjmA33-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="200" as="sourcePoint" />
+            <mxPoint x="-370" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
